@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">location</string>
+
+    <string name="tracking">tracking</string>
+    <string name="my_qr">My Qr</string>
+    <string name="title">Title</string>
+</resources>
